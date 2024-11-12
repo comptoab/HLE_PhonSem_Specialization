@@ -1,0 +1,1 @@
+These are the codes and data list used for paper by Compton, Banaszkiewicz, Wang, & Booth, entitled "The relation of home literacy environment to brain specialization for phonological and semantic processing"
